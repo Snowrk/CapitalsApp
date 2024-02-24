@@ -1,0 +1,29 @@
+/* Write your CSS here */
+.bg {
+  background-color: #93c5fd;
+  padding: 1rem;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  min-height: 100vh;
+  font-family: 'Roboto';
+}
+
+.bg-1 {
+  background-color: white;
+  padding: 3rem;
+  border-radius: 1rem;
+}
+
+.box {
+  padding: 0.5rem;
+  font-family: 'Roboto';
+  width: 200px;
+  margin-right: 0.5rem;
+}
+
+.para {
+  font-weight: bold;
+  font-size: x-large;
+}
